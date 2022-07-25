@@ -339,10 +339,6 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
-    .popup-inner {
-      background: #FFF;
-      padding: 32px;
-    }
   }
 </style>
 
